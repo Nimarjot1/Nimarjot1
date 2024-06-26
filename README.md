@@ -31,9 +31,7 @@
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   </a> 
-    <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/data/data-original.svg" alt="dsa" width="40" height="40"/> 
-  </a> 
+     
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimarjot1&show_icons=true&locale=en&layout=compact" alt="nimarjot1" /></p>

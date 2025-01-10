@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Exit the plugin**
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **Machine Learning Specialization**
 
 - 📫 How to reach me **nimarjotk@gmail.com**
 

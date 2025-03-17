@@ -19,7 +19,9 @@
 <a href="https://www.codechef.com/users/nimarjot kaur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nimarjot kaur" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@nimarjot kaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nimarjot kaur" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/nimarjot/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="nimarjot" height="30" width="40" /></a>
-<a href="https://www.interviewbit.com/profile/nimarjot-kaur/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42115530/95125514-0e501880-072e-11eb-8e9e-8d419e6fbeb9.png" alt="nimarjot kaur" height="30" width="40" /></a>
+<a href="https://www.interviewbit.com/profile/nimarjot-kaur/" target="_blank" rel="noreferrer">
+  <img align="center" src="https://user-images.githubusercontent.com/42115530/95125514-0e501880-072e-11eb-8e9e-8d419e6fbeb9.png" alt="nimarjot kaur" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

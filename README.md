@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://firstcontributions.github.io/open-source-badges/badges/open-source-v1.svg" alt="Open Source Contributor"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Nimarjot kaur</h1>
 <h3 align="center">A passionate full-stack developer from India, eager to innovate at FAANG in Canada</h3>
@@ -16,6 +13,8 @@
 - 📫 How to reach me **nimarjotk@gmail.com**
 
 - ⚡ Fun fact **I can spend hours debugging a single line of code! 🐞🔍**
+
+- 🌍 Actively contributing to **Open Source projects on GitHub**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

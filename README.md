@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://firstcontributions.github.io/open-source-badges/badges/open-source-v1.svg" alt="Open Source Contributor"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Nimarjot kaur</h1>
 <h3 align="center">A passionate full-stack developer from India, eager to innovate at FAANG in Canada</h3>
 
